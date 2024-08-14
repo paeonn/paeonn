@@ -1,2 +1,2 @@
 ### just coding ⚡... 
-![Paeonn GitHub stats](https://github-readme-stats.vercel.app/api?username=paeonn&show_icons=true&theme=transparent)
+![Paeonn GitHub stats](https://github-readme-stats-paeonns-projects.vercel.app/api?username=paeonn&show_icons=true&theme=transparent)
